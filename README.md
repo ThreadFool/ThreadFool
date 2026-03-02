@@ -1,5 +1,5 @@
 <p float="left">
-<img src="winter.gif" alt="Alt text" width="500" />
+<img src="spring.gif" alt="Alt text" width="500" />
 </p>
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiccThreadPool&show_icons=true&locale=en&layout=compact" alt="ThiccThreadPool" /></p>
