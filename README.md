@@ -1,4 +1,4 @@
 <p float="left">
-<img src="spring.gif" alt="Alt text" width="500" />
+<img src="summer.gif" alt="Alt text" width="500" />
 </p>
 
